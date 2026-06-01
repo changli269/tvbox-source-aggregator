@@ -17,6 +17,9 @@ binding = "KV"
 id = "bdad1a97d0e4473b97a6f135890b4eed"
 preview_id = "bdad1a97d0e4473b97a6f135890b4eed"
 
+[observability]
+enabled = true
+
 [vars]
 SPEED_TIMEOUT_MS = "5000"   # 源地址延迟阈值（毫秒）
 SITE_TIMEOUT_MS = "3000"    # 站点 API 延迟阈值（毫秒）
